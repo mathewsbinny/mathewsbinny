@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 *Web app created for personal workout tracking using a MERN stack (MongoDB, Express, React, Node.js) and styled using Bootstrap CSS*
 # Currently Learning
-- C++
+- C++, Python, JavaScript
 - MERN web development & client-server software architecture
 - Software testing & QA using Selenium, JUnit, Mockito
 # Contact Information
