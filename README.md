@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 *Mobile web app created using a MERN stack (MongoDB, Express, React, Node.js) and styled using material-UI and Bootstrap CSS*
 # Currently Learning
 - C++
-- MERN web development
+- MERN web development & client-server software architecture
 - Software testing & QA using Selenium, JUnit, Mockito
 # Contact Information
 - Email: [link](mathewsb.00@gmail.com)
