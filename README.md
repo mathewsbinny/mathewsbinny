@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - MERN web development & client-server software architecture
 - Software testing & QA using Selenium, JUnit, Mockito
 # Contact Information
-- Email: [link](mathewsb.00@gmail.com)
-- LinkedIn: [link](https://www.linkedin.com/in/mathewsbinny/)
+- [Email](mathewsb.00@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mathewsbinny/)
