@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Projects in Progress
 - Walking Trails App
 
-*Mobile web app created using a MERN stack (MongoDB, Express, React, Node.js) and styled using material-UI and Bootstrap CSS*
+*Mobile web app created for a client using a MERN stack (MongoDB, Express, React, Node.js) and styled using material-UI and Bootstrap CSS*
 # Currently Learning
 - C++
 - MERN web development & client-server software architecture
