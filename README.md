@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 # Projects in Progress
 - Walking Trails App
 
-*Mobile-friendly web app created for a client using a MERN stack (MongoDB, Express, React, Node.js) and styled using material-UI and Bootstrap CSS*
+*Mobile-friendly web app created for a client using a MERN stack (MongoDB, Express, React, Node.js) and styled using material-UI and Bootstrap CSS, and integration of Google Maps API and Google OAuth for sign-in and registration*
 
 - Workout Buddy App
 
