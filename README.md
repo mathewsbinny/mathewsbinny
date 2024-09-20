@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - Workout Buddy App
 
-*Web app created for personal workout tracking using a MERN stack (MongoDB, Express, React, Node.js) and styled using Bootstrap CSS*
+*Web app created for personal workout tracking using a MERN stack (MongoDB, Express, React, Node.js) and will be styled using Bootstrap CSS*
 ## Currently Learning
 - C++, Python, JavaScript
 - MERN web development & client-server software architecture
