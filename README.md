@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 ## Projects in Progress
-#### Walking Trails App
+#### Walking Trails Web App
 - *Mobile-friendly web app created for a client using a MERN stack (MongoDB, Express, React, Node.js) and styled using material-UI and Bootstrap CSS, and integration of Google Maps API for live-trail overlays*
 
-#### Workout Buddy App
+#### Workout Tracker Web App
  - *Web app created for personal workout tracking using a MERN stack (MongoDB, Express, React, Node.js) and will be styled using Bootstrap CSS*
 ## Currently Learning
 - C++, JavaScript
