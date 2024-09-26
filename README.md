@@ -55,7 +55,7 @@
 ---
 
 ### Stats
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathewsbinny&show_icons=true&theme=gruvbox)
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathewsbinny&show_icons=true&theme=default)
 
 ### Contact Information
 - [Email](mathewsb.00@gmail.com)
