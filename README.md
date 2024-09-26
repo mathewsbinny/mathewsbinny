@@ -56,7 +56,9 @@
 
 ### Stats
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathewsbinny&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsbinny)](https://github.com/mathewsbinny/github-readme-stats&layout=compact&hide=hack)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsbinny&hide=hack,processing&layout=compact&width=500)
 
 ### Contact Information
 - [Email](mathewsb.00@gmail.com)
