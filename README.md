@@ -8,8 +8,8 @@
 -->
 
 ### Contact Information
-<a href=”https://www.linkedin.com/in/mathewsbinny/"><img align=”left” src=”https://raw.githubusercontent.com/mathewsbinny/mathewsbinny/main/images/linkedin.svg" alt=”Mathews Binny | LinkedIn” width=”21px”/></a>
-<a href=”mailto:mathewsb.00@gmail.com"><img align=”left” src=”https://raw.githubusercontent.com/mathewsbinny/mathewsbinny/main/images/gmail.svg" alt=”Mathews Binny | Email” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/mathewsbinny/"><img align=”left” src=”https://github.com/mathewsbinny/mathewsbinny/blob/main/images/linkedin.svg" alt=”Mathews Binny | LinkedIn” width=”21px”/></a>
+<a href=”mailto:mathewsb.00@gmail.com"><img align=”left” src=”https://github.com/mathewsbinny/mathewsbinny/blob/main/images/gmail.svg" alt=”Mathews Binny | Email” width=”21px”/></a>
 
 ---
 
