@@ -7,6 +7,9 @@
 
 -->
 
+### About
+H
+
 ### Contact Me
 
 <a href="mailto:mathewsb.00@gmail.com">
@@ -69,7 +72,7 @@
 ---
 
 ### Stats
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathewsbinny&show_icons=true&theme=default)
+<!-- ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathewsbinny&show_icons=true&theme=default) -->
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsbinny&hide=hack,processing&layout=compact&width=500)
