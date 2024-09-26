@@ -5,6 +5,8 @@
          <img alt="Github Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mathewsbinny?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
+&nbsp;
+
 ---
 
 ### Languages and Tools
@@ -30,8 +32,9 @@
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <!-- Source for icons: https://devicon.dev/ -->
 
-
 &nbsp;
+
+---
 
 ### Projects in Progress
 
@@ -41,9 +44,9 @@
 ##### Workout Tracker Web App
  - *Web app created for personal workout tracking using a MERN stack (MongoDB, Express, React, Node.js). Current iteration focused on adding user authentication through use of JSON Web Tokens.*
 
----
-
 &nbsp;
+
+---
 
 ### Currently Learning
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
