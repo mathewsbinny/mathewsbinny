@@ -7,9 +7,6 @@
 
 -->
 
-### About
-H
-
 ### Contact Me
 
 <a href="mailto:mathewsb.00@gmail.com">
