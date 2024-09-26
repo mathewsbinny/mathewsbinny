@@ -4,7 +4,13 @@
    <a href="https://github.com/mathewsbinny?tab=followers">
          <img alt="Github Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mathewsbinny?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+
 -->
+
+
+### Contact Information
+- [Email](mathewsb.00@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mathewsbinny/)
 
 ---
 
@@ -65,7 +71,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathewsbinny&hide=hack,processing&layout=compact&width=500)
-
-### Contact Information
-- [Email](mathewsb.00@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mathewsbinny/)
