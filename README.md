@@ -10,7 +10,7 @@
 ### Contact Me
 
 <a href="mailto:mathewsb.00@gmail.com">
-   <img align="left" src="https://github.com/mathewsbinny/mathewsbinny/blob/main/images/gmail.svg" alt="Mathews Binny | Email" width="21px"/></a>
+   <img align="left" src="https://github.com/mathewsbinny/mathewsbinny/blob/main/images/gmail.svg" alt="Mathews Binny | Email" width="25px"/></a>
 <a href="https://www.linkedin.com/in/mathewsbinny/">
    <img align="left" src="https://github.com/mathewsbinny/mathewsbinny/blob/main/images/linkedin.svg" alt="Mathews Binny | LinkedIn" width="21px"/></a>
 
