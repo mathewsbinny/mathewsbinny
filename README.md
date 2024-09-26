@@ -7,7 +7,6 @@
 
 -->
 
-### Contact Me
 
 <a href="mailto:mathewsb.00@gmail.com">
    <img align="left" src="https://github.com/mathewsbinny/mathewsbinny/blob/main/images/gmail.svg" alt="Mathews Binny | Email" width="25px"/></a>
