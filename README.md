@@ -20,7 +20,7 @@
 ### Projects in Progress
 
 ##### GGC Walking Trails & Fitness Web App
-- *Mobile-friendly web app created for a client using a MERN stack (MongoDB, Express, React, Node.js) and styled using material-UI and Bootstrap CSS, and integration of Google Maps API for live-trail overlays*
+- *Mobile-friendly web app created for a client using a MERN stack (MongoDB, Express, React, Node.js) and styled using Bootstrap CSS, and integration of Google Maps API for live-trail overlays*
 
 ##### Workout Tracker Web App
  - *Web app created for personal workout tracking using a MERN stack (MongoDB, Express, React, Node.js). Current iteration focused on adding user authentication through use of JSON Web Tokens.*
