@@ -1,3 +1,5 @@
+<div>
+   
 # Mathews Binny
 **`Bachelor of Science in Information Technology, Software Development`**
 <!-- <p align="left">
@@ -17,6 +19,10 @@
 
 ---
 
+</div>
+
+<div>
+
 ### Projects in Progress
 
 ##### GGC Walking Trails & Fitness Web App
@@ -31,6 +37,10 @@
 &nbsp;
 
 ---
+
+</div>
+
+<div>
 
 ### Languages, Libraries, & Frameworks
 
@@ -82,6 +92,8 @@
 &nbsp; 
 
 ---
+
+</div>
 
 ### Stats
 <!-- ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathewsbinny&show_icons=true&theme=default) -->
