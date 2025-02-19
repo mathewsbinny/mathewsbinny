@@ -31,6 +31,9 @@
 ##### Workout Tracker Web App
  - *Web app created for personal workout tracking using a MERN stack (MongoDB, Express, React, Node.js).*
 
+##### Stock Market Simulator
+ - *Web app created for personal workout tracking using Django and Angular.*
+
 &nbsp;
 
 ---
