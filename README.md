@@ -28,11 +28,11 @@
 ##### GGC Walking Trails & Fitness Web App
 - *Mobile-friendly web app being developed for university using a MERN stack (MongoDB, Express, React, Node.js) and styled using Bootstrap CSS.*
 
-##### Workout Tracker Web App
- - *Web app created for personal workout tracking using a MERN stack (MongoDB, Express, React, Node.js).*
-
 ##### Stock Market Simulator
  - *Stock market trading simulator and tracker developed using Django and Angular.*
+
+##### Workout Tracker Web App
+ - *Web app created for personal workout tracking using a MERN stack (MongoDB, Express, React, Node.js).*
 
 &nbsp;
 
